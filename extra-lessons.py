@@ -69,3 +69,12 @@ d.values()
 
 #to return dictionary
 d.items() #you'll get: dict_items(['k1',100), ('k2', 200), ('k3', 300)])
+
+#tuples us () while lists use []
+#they're immutable
+
+mylist[0] = 'NEW' #reassigns NEW to the list at index 0 when called
+t[0] = 'NEW' #will give you an error message because you can't reassign items in tuples
+
+#people use tuples for data integrity. When passing around objects in programs, you need to make sure that they don't
+#  change. 
