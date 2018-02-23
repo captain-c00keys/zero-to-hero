@@ -23,3 +23,31 @@ print('Hello, his name is {}'.format(name))
 
 #displays the same as above. It's called f string literals
 print(f'Hello, his name is {name}')
+
+#putting an element into a list
+new_list = ['one', 'two', 'three', 'four', 'five']
+
+new_list.append('six') #puts six at the end of list
+new_list[0] = 'ONE ALL CAPS' #appends to list
+
+new_list.pop() #will take last element off list
+new_list.pop()
+
+popped_item = new_list.pop(0) #this will take off the element at position 0 and store it under popped_item
+
+#you can't assign a variable to a sort method, so here's how you'll do it
+
+new_list.sort() #can't attach a variable to this method. Reverse works the same
+my_sorted_list = new_list #this will equal how you would want to do it
+
+#dictionary
+my_dict = {'key1':'value1', 'key2':'value2'}
+my_dict['key1']
+
+d = {'k1':123, 'k2':[0,1,2], 'k3':{'insideKey':100}}
+
+#another example
+
+d = {'key1':['a', 'b', 'c']}
+
+mylist = d['key1']
