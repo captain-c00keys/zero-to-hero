@@ -16,8 +16,8 @@
       <file leaf-file-name="extra-lessons.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/extra-lessons.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="73">
-              <caret line="52" column="18" lean-forward="true" selection-start-line="52" selection-start-column="18" selection-end-line="52" selection-end-column="18" />
+            <state relative-caret-position="98">
+              <caret line="70" column="64" lean-forward="false" selection-start-line="70" selection-start-column="64" selection-end-line="70" selection-end-column="64" />
               <folding />
             </state>
           </provider>
@@ -36,8 +36,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="642" />
-    <option name="y" value="496" />
+    <option name="x" value="471" />
+    <option name="y" value="561" />
     <option name="width" value="1400" />
     <option name="height" value="726" />
   </component>
@@ -131,7 +131,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="642" y="496" width="1400" height="726" extended-state="0" />
+    <frame x="471" y="561" width="1400" height="726" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -179,8 +179,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/extra-lessons.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="73">
-          <caret line="52" column="18" lean-forward="true" selection-start-line="52" selection-start-column="18" selection-end-line="52" selection-end-column="18" />
+        <state relative-caret-position="98">
+          <caret line="70" column="64" lean-forward="false" selection-start-line="70" selection-start-column="64" selection-end-line="70" selection-end-column="64" />
           <folding />
         </state>
       </provider>

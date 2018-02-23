@@ -51,3 +51,21 @@ d = {'k1':123, 'k2':[0,1,2], 'k3':{'insideKey':100}}
 d = {'key1':['a', 'b', 'c']}
 
 mylist = d['key1']
+
+letter = mylist[2] #to reassign what the list is item is
+
+#to add to a dictionary
+d = {'k1': 100, 'k2':200}
+d['k3'] = 300 #this will add k3 to the dictionary
+
+#to change a key value
+d = ['k1'] = 'NEW VALUE'
+
+#to return all the keys
+d.keys() #will return dict_keys(['k1', 'k2', 'k3'])
+
+#return values
+d.values()
+
+#to return dictionary
+d.items() #you'll get: dict_items(['k1',100), ('k2', 200), ('k3', 300)])
