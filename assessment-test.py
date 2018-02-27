@@ -4,3 +4,7 @@
 #tuples are within parenthesis
 #dictionaries have key and value paired components. Work kind of like an object in javascript
 
+#result for 3 + 1.5 + 4
+>>> type(3+1.5+4)
+<type 'float'>
+>>>
