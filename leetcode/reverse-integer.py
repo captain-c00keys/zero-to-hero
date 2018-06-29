@@ -13,3 +13,19 @@ def reverse(x):
 
 
 print(reverse(8738))
+
+# sencond try 
+class Solution(object):
+    def reverse(self, x):
+        """
+        :type x: int
+        :rtype: int
+        """
+        temp = 0
+        while x:
+            digit = x % 10
+            x //= 10
+            temp.append(digit)
+            
+            temp = rev * 10 + pop;
+        rev = temp;
