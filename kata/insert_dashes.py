@@ -14,4 +14,3 @@ def insert_dash(num):
         else:
             new_str += num_str[i]
     return new_str
-    
